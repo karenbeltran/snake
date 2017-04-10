@@ -1,0 +1,17 @@
+#cuadro{
+	width: 20px;
+	height: 20px;
+	background-color: #040404;
+	position: absolute;
+	border: solid 1px black;
+}
+
+
+#contenedor{
+	width:  400px;
+	height: 400px;
+	border: solid 4px #1B5E20;
+	margin : auto auto;
+
+
+}
